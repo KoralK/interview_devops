@@ -1,0 +1,217 @@
+[
+    {
+        "question": "Which tool is commonly used for Continuous Integration?",
+        "options": ["Docker", "Jenkins", "Kubernetes", "Git"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of these is a containerization platform?",
+        "options": ["Ansible", "Docker", "Terraform", "Puppet"],
+        "answers": [1]
+    },
+    {
+        "question": "Which tool is used for infrastructure as code?",
+        "options": ["Terraform", "Selenium", "Maven", "Nexus"],
+        "answers": [0]
+    },
+    {
+        "question": "Which version control system does GitLab utilize?",
+        "options": ["SVN", "CVS", "Mercurial", "Git"],
+        "answers": [3]
+    },
+    {
+        "question": "Which language is Ansible primarily written in?",
+        "options": ["Java", "Python", "Go", "Ruby"],
+        "answers": [1]
+    },
+    {
+        "question": "Which is a popular monitoring tool in DevOps?",
+        "options": ["Gradle", "Prometheus", "Django", "Elasticsearch"],
+        "answers": [1]
+    },
+    {
+        "question": "Which tool is used for automated deployment?",
+        "options": ["Kubernetes", "Chef", "Nagios", "Vagrant"],
+        "answers": [1]
+    },
+    {
+        "question": "In which cloud provider's offering is 'EKS' a service?",
+        "options": ["Azure", "GCP", "AWS", "DigitalOcean"],
+        "answers": [2]
+    },
+    {
+        "question": "Which of these tools is not focused on configuration management?",
+        "options": ["Chef", "Puppet", "Docker", "Ansible"],
+        "answers": [2]
+    },
+    {
+        "question": "Which of these is a source code management (SCM) tool?",
+        "options": ["Bamboo", "Bitbucket", "Docker", "Kubernetes"],
+        "answers": [1]
+    },
+    {
+        "question": "What does 'CI' in 'CI/CD' stand for?",
+        "options": ["Continuous Inspection", "Continuous Integration", "Constant Integration", "Continuous Implementation"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of these is a container orchestration tool?",
+        "options": ["Kubernetes", "Grafana", "Docker", "Travis CI"],
+        "answers": [0]
+    },
+    {
+        "question": "Which tool helps in automating application deployment, scaling, and management?",
+        "options": ["Jenkins", "Kubernetes", "GitLab", "Selenium"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is a log management tool?",
+        "options": ["Splunk", "Terraform", "Helm", "JIRA"],
+        "answers": [0]
+    },
+    {
+        "question": "Which scripting language is extensively used in DevOps for automation?",
+        "options": ["C++", "Bash", "Swift", "Rust"],
+        "answers": [1]
+    },
+    {
+        "question": "Which tool is used for service discovery in microservices?",
+        "options": ["Consul", "Maven", "Git", "Nexus"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the primary purpose of a Dockerfile?",
+        "options": ["Write unit tests", "Document code", "Define container contents", "Manage configuration"],
+        "answers": [2]
+    },
+    {
+        "question": "What is a 'Pod' in Kubernetes?",
+        "options": ["A storage volume", "A networking policy", "Smallest deployable unit", "Configuration file"],
+        "answers": [2]
+    },
+    {
+        "question": "Which of these tools is used for centralized logging in a distributed system?",
+        "options": ["Kafka", "Zookeeper", "Swarm", "Elasticsearch"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the command to get the list of pods in Kubernetes?",
+        "options": ["kubectl list pods", "kubectl get pods", "kube get pods", "kube list pods"],
+        "answers": [1]
+    },
+    {
+        "question": "What does 'CD' in 'CI/CD' stand for?",
+        "options": ["Continuous Deployment", "Continuous Development", "Constant Deployment", "Continuous Design"],
+        "answers": [0]
+    },
+    {
+        "question": "Which DevOps tool is primarily used for release management?",
+        "options": ["Jira", "Splunk", "Spinnaker", "Prometheus"],
+        "answers": [2]
+    },
+    {
+        "question": "Which is not a CI/CD tool?",
+        "options": ["Jenkins", "Travis CI", "CircleCI", "Prometheus"],
+        "answers": [3]
+    },
+    {
+        "question": "Which tool is an open-source server used to automate the building, testing, and deployment of projects?",
+        "options": ["Git", "Docker", "Jenkins", "Kubernetes"],
+        "answers": [2]
+    },
+    {
+        "question": "What is 'Immutable Infrastructure'?",
+        "options": ["Changing infrastructure without replacing", "Infrastructure that can't be changed", "Replacing infrastructure instead of updating", "Infrastructure with no versioning"],
+        "answers": [2]
+    },
+    {
+        "question": "Which is a popular server automation tool?",
+        "options": ["Git", "Jira", "Bamboo", "Chef"],
+        "answers": [3]
+    },
+    {
+        "question": "What does YAML stand for in DevOps context?",
+        "options": ["Yet Another Markup Language", "Yielded Application Markup Language", "Yet Another Management List", "Yielded Automation Markup Language"],
+        "answers": [0]
+    },
+    {
+        "question": "Which tool is used for cloud provisioning?",
+        "options": ["Docker", "Nagios", "Terraform", "Grafana"],
+        "answers": [2]
+    },
+    {
+        "question": "Which one is not a monitoring tool?",
+        "options": ["Prometheus", "Zabbix", "Grafana", "Vagrant"],
+        "answers": [3]
+    },
+    {
+        "question": "In which language is Docker primarily written?",
+        "options": ["Python", "Java", "Go", "Ruby"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the purpose of the 'Docker Compose' tool?",
+        "options": ["Build Docker images", "Manage Docker volumes", "Define and run multi-container Docker applications", "Push Docker images to registry"],
+        "answers": [2]
+    },
+    {
+        "question": "Which tool is an open-source container orchestration system?",
+        "options": ["Nagios", "Jenkins", "Travis CI", "Kubernetes"],
+        "answers": [3]
+    },
+    {
+        "question": "Which is a key principle of DevOps?",
+        "options": ["Manual Testing", "Infrequent Releases", "Silos", "Automation"],
+        "answers": [3]
+    },
+    {
+        "question": "What tool is commonly used for distributed log processing?",
+        "options": ["Kafka", "Docker", "Puppet", "GitLab"],
+        "answers": [0]
+    },
+    {
+        "question": "Which of these is not a cloud platform provider?",
+        "options": ["AWS", "GCP", "Azure", "Docker"],
+        "answers": [3]
+    },
+    {
+        "question": "What is Blue-Green Deployment?",
+        "options": ["Two teams working in parallel", "A type of Kubernetes service", "Maintaining two versions of an application for zero-downtime deployment", "A continuous integration strategy"],
+        "answers": [2]
+    },
+    {
+        "question": "Which of these tools can be used to manage secrets?",
+        "options": ["Grafana", "Vault", "Jenkins", "Maven"],
+        "answers": [1]
+    },
+    {
+        "question": "Which database is often associated with Elasticsearch in the ELK stack?",
+        "options": ["Logstash", "Kibana", "Redis", "Kafka"],
+        "answers": [0]
+    },
+    {
+        "question": "In AWS, what service can be used for container orchestration?",
+        "options": ["EC2", "EKS", "Lambda", "S3"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of these is not a configuration management tool?",
+        "options": ["Ansible", "Chef", "Jenkins", "Puppet"],
+        "answers": [2]
+    },
+    {
+        "question": "What does IaC stand for in the DevOps context?",
+        "options": ["Infrastructure as Container", "Infrastructure as Config", "Infrastructure as Code", "Integration and Configuration"],
+        "answers": [2]
+    },
+    {
+        "question": "Which of these tools is used for event-driven automation?",
+        "options": ["Grafana", "Stackdriver", "Sensu", "Webhooks"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the main benefit of using microservices architecture?",
+        "options": ["Bigger codebase", "Tight coupling", "Monolithic deployment", "Scalability and flexibility"],
+        "answers": [3]
+    }
+]
